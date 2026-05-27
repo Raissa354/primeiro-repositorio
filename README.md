@@ -3,6 +3,8 @@ apresentacao 27/05/2026
 
 grupo:Raissa Helena, Bianka Vieira, Samuel Henrique, Lucas Rafael, Camila Patrussi
 
+Apresentação no canva https://www.canva.com/design/DAHKw9nknr0/qhttzJfRDVeage8ja1yd6g/view?utm_content=DAHKw9nknr0&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
 resumo preve sobre a apresentaçao:
 
 Sistema de Controle de Versões Distribuído
