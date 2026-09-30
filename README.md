@@ -114,6 +114,14 @@ Pull Requests são solicitações para integrar alterações de uma branch em ou
 
 ---
 
-# 7.3 Resolução de Conflitos
 
 Conflitos acontecem quando duas alterações modificam o mesmo trecho de código. Para resolver, é necessário analisar as mudanças, escolher a versão correta e realizar um novo commit.
+
+## 📚 O que estou aprendendo
+
+- Git
+- GitHub
+- Branches
+- Pull Requests
+
+# 7.3 Resolução de Conflitos
